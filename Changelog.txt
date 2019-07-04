@@ -1,0 +1,10 @@
+REV1
+- Revised Holes for POP Open End Countersunk Blind Rivets (4-2C, 4-3C, 4-4C) 
+- Link for 4-2C, 1/8" x 1/8" Grip (0.020 - 0.125)SKU #11970002 - https://www.albanycountyfasteners.com/POP-Rivets-Domed-Stainless-Steel-1-8-p/11970000.htm
+- Fixed Sketch for Fan holes, they were functional but imprecise.
+
+REV2
+-Changed holes to 3.3mm for Universal POP Rivets according to Jason
+
+REV3
+-Replaced whole assembly with Chuck's updated model
